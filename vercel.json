@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/:label/:value",
+            "destination": "/api/:label/:value"
+        }
+    ]
+}
